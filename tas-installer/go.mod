@@ -3,7 +3,7 @@ module securesign/sigstore-ocp/tas-installer
 go 1.20
 
 require (
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.8.1
 	golang.org/x/term v0.14.0
 	helm.sh/helm/v3 v3.13.2
 	k8s.io/api v0.28.4
